@@ -1,5 +1,9 @@
 # Project Name
 
+<!-- Initialize readme with these steps -->
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: github_username, repo, twitter_handle
+<!-- Remove this block ^ -->
+
 Give a brief description of your project here.
 
 <!-- TABLE OF CONTENTS -->
@@ -26,9 +30,8 @@ Give a brief description of your project here.
 ## About the project
 Give a more thourough explanation of your project here.
 
-```
-<Insert gif of working example here>
-```
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 
 <!-- GETTING STARTED -->
@@ -55,9 +58,13 @@ $ pip install pipenv
 ```
 
 ### Installation
-Setup the python environment and install the necessasry dependencies
+1. Clone the repo
 ```sh
-pipenv install
+$ git clone https://github.com/github_username/repo.git
+```
+2. Install python packages
+```sh
+$ pipenv install
 ```
 
 ### Development setup
@@ -129,8 +136,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
 Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
 
 
@@ -140,3 +145,8 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 * []()
 * []()
 * []()
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: images/screenshot.png
