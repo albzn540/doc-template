@@ -2,13 +2,6 @@
 
 Template to make good looking, structured readmes.
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-
-
 ## About the project
 In order to make better readmes I created this readme template that includes everything of importance.
 
@@ -16,16 +9,18 @@ In order to make better readmes I created this readme template that includes eve
 
 Take me to the [template](TEMPLATE.md)
 
-## Getting started - Installation - Usage
+## Getting started
 
-1. Stand in the directory where you want the readme to be. Download the readme template to the directory.
+### Installation
+Stand in the directory where you want the readme to be. Download the readme template to the directory.
 ```sh
 $ curl https://raw.githubusercontent.com/albzn540/doc-template/master/TEMPLATE.md > README.md
 ```
 
-2. To minimize work (which this template is all about), search and replace `github_username`, `repo` with your information.
+### Usage
+1. To minimize work (which this template is all about), search and replace `github_username`, `repo` with your information.
 
-3. Populate the readme with the appropriate content. This is the hard part. 
+2. Populate the readme with the appropriate content. This is the hard part. 
 
 
 ## Acknowledgements
