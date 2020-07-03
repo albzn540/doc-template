@@ -5,7 +5,7 @@ Template to make good looking, structured readmes.
 ## About the project
 In order to make better readmes I created this readme template that includes everything of importance.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](TEMPLATE.md)]
 
 Take me to the [template](TEMPLATE.md)
 
@@ -25,3 +25,7 @@ $ curl https://raw.githubusercontent.com/albzn540/doc-template/master/TEMPLATE.m
 
 ## Acknowledgements
 This template is heavily based upon [BEST-README-template](https://github.com/othneildrew/Best-README-Template) by [othneildrew](https://github.com/othneildrew). Cudos to that person!
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: https://gyazo.com/ee334ea8ea3bdb14620f7031e1b70717
